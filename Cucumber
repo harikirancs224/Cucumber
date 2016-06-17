@@ -5,5 +5,5 @@ Feature: Login function
     And User enters Credentials to LogIn
       | Username | Password |
       | kirani   |  1234567 |
-      | kirani   |  1234567 |
-    Then Message displayed Login Successfully
+  
+
